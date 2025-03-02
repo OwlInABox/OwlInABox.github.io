@@ -10,11 +10,11 @@ main[b-bkrmxpzame] {
 }
 
 .sidebar[b-bkrmxpzame] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-image: linear-gradient(180deg, rgb(255, 216, 0) 0%, #e4afdf 70%);
 }
 
 .top-row[b-bkrmxpzame] {
-    background-color: #f7f7f7;
+    background-color: #d6e246;
     border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
     height: 3.5rem;
@@ -78,7 +78,7 @@ main[b-bkrmxpzame] {
 }
 /* /Layout/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-awcmgn0ahn] {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgb(255, 0, 0);
 }
 
 .top-row[b-awcmgn0ahn] {
@@ -126,7 +126,7 @@ main[b-bkrmxpzame] {
     }
 
     .nav-item[b-awcmgn0ahn]  a {
-        color: #d7d7d7;
+        color: rgb(0, 0, 0);
         border-radius: 4px;
         height: 3rem;
         display: flex;
