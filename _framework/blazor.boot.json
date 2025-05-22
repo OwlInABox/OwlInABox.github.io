@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SemesterOverview",
   "resources": {
-    "hash": "sha256-MrpF6+H7uoItWwIp1DLiQtrGiquCGhJn/2HjLCZyq6k=",
+    "hash": "sha256-y8QL/VNbpw9BmkF2+LV1e227btfSLowludGOwOIjcs8=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -32,7 +32,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-Bi1hyBMWneH/ByWbqT/pNe0B7I/NQFklzD2g3Whdqlk=",
       "Microsoft.JSInterop.wasm": "sha256-/a2ywBVO60H6ZjqSD/C34ynDNuDMyoatYefSNc+dBaU=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-Jwrlf0VPydOWncfsAvk569TQrosh6ro1Xkc8HzvG2nQ=",
-      "SemesterOverview.wasm": "sha256-mJ+0p4msm13aRRZFmCHFQovOl07OF11x/7IUHKzCn28=",
+      "SemesterOverview.wasm": "sha256-Kf+0/SETrJtghQK3PwQUVrxgVldrWaslvUTvFfFY/Xo=",
       "System.Collections.Concurrent.wasm": "sha256-XhoyveX9la+RxKLJ8Pu8eEn0lVOQjNm8+I1fVA2U+YQ=",
       "System.Collections.wasm": "sha256-bCi/g7Jqp5lcyKPxykmhP1Ch+amXkWRmkEqQKtV2vMA=",
       "System.ComponentModel.wasm": "sha256-pJqWLFu3lM31lhBVjoy1S0sgrhcTAt2cZCGXTPnEM9Q=",
